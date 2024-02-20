@@ -15,7 +15,8 @@
 
 <br><br><br>
 
-![imagem gerada por IA pela descrição de texto](IA%20eu.jpg)
+<img src="IA eu.jpg" alt="Texto Alternativo" width="500" height="500">
+
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
